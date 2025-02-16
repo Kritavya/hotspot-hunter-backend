@@ -1,0 +1,5 @@
+# Ignore environment variables
+.env
+
+# Ignore dependencies (they can be installed using package.json)
+node_modules
